@@ -14,7 +14,7 @@ I'm a guy who really likes doing crossword puzzles and climbing rocks. Currently
   - 😁 Pronouns: he/him
   - 🧗 Fun fact: I love climbing rocks
   
-  Original inspiration for this profile is from [Kaya Thomas](https://twitter.com/kthomas901/status/1285321238735282176?s=12)
+  ✨ Original inspiration for this profile is from [Kaya Thomas](https://twitter.com/kthomas901/status/1285321238735282176?s=12) ✨
   
   
 <!--
