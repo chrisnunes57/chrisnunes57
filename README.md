@@ -16,6 +16,8 @@ I'm a coder who really likes doing crossword puzzles and climbing rocks. Current
   
   ✨ Original inspiration for this profile is from [Kaya Thomas](https://twitter.com/kthomas901/status/1285321238735282176?s=12) ✨
   
+  [![Chris' Github Stats!](https://github-readme-stats.vercel.app/api?username=chrisnunes57)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 <!--
 **chrisnunes57/chrisnunes57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
