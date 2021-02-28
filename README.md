@@ -12,7 +12,7 @@ I'm a coder who really likes doing crossword puzzles and climbing rocks. Current
   - 📪 Contact me at [chrisnunes57@gmail.com](mailto:chrisnunes57@gmail.com)
   - 🥵 Check out my blog at [chrisnun.es](https://chrisnun.es) (I promise I'll post something not-code-related eventually)
   - 😁 Pronouns: he/him
-  - 🤯 Fun fact: I can do a New York Times Mini Crossworld puzzle in *7 seconds*
+  - 🤯 Fun fact: I can do a New York Times Mini Crossworld puzzle in *6 seconds*
   
   ✨ Original inspiration for this profile is from [Kaya Thomas](https://twitter.com/kthomas901/status/1285321238735282176?s=12) ✨
   
