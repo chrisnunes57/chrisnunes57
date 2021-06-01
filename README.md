@@ -8,7 +8,7 @@ I'm a coder who really likes doing crossword puzzles and climbing rocks. Current
 
   - 💻 I'll soon be working as a Software Engineer at Microsoft!
   - 🤓 I'm currently learning about Cryptography
-  - 💬 Ask me about web development, rock climbing, and accessibility (please)
+  - 💬 Ask me about web development, rock climbing, or sports (that's really all I do)
   - 📪 Contact me at [chrisnunes57@gmail.com](mailto:chrisnunes57@gmail.com)
   - 🥵 Check out my blog at [chrisnun.es](https://chrisnun.es) (I promise I'll post something not-code-related eventually)
   - 😁 Pronouns: he/him
