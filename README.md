@@ -1,9 +1,9 @@
 ### Hi, I'm Chris 👋
 
-I'm a coder who really likes doing crossword puzzles and climbing rocks. Currently, I am a senior at UT Austin, where I'm studying Computer Science and learning about cybersecurity. I'm the Web Development Officer for the Hispanic Association of Computer Scientists, and I help maintain our [open source website](https://github.com/chrisnunes57/hacs-opensource). I like messing around with Javascript and CSS, and I will one day learn a thing or two about security.
+I'm a coder who really likes doing crossword puzzles and climbing rocks. I'm currently a software engineer at Microsoft, working with digital signatures, certificates, and cryptography. In my free time, I like to create websites, and I'm always trying to learn more about cyber security and penetration testing.
 
   - 💻 I'm working as a Software Engineer at Microsoft!
-  - 🤓 I'm currently learning about Cryptography
+  - 🤓 I'm currently learning about Cryptography and Pentesting
   - 💬 Ask me about web development, rock climbing, or sports (that's really all I do)
   - 📪 Contact me at [chrisnunes57@gmail.com](mailto:chrisnunes57@gmail.com)
   - 🥵 Check out my blog at [chrisnun.es](https://chrisnun.es) (I promise I'll post something not-code-related eventually)
